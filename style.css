@@ -47,9 +47,6 @@ body {
   } 
   
   
-  .center-text {  
-    text-align: center;  
-  }
   
   .logo img {  
     height: 100px; /*Set the height of the logo*/  
@@ -107,9 +104,4 @@ footer {
   flex: 1;  
 }  
 
-.image {  
-/*Set the width and height of the image, which can be automatically or manually set*/
-  max-width: 50%;   
-  height: auto;   
-  margin-left: 10px;  
-}  
+
